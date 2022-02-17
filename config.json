@@ -1,8 +1,8 @@
 {
     "default_server_config": {
         "m.homeserver": {
-            "base_url": "https://matrix-client.matrix.org",
-            "server_name": "matrix.org"
+            "base_url": "https://chat.tvstech.net",
+            "server_name": "TVSChat"
         },
         "m.identity_server": {
             "base_url": "https://vector.im"
@@ -24,7 +24,7 @@
     ],
     "bug_report_endpoint_url": "https://element.io/bugreports/submit",
     "uisi_autorageshake_app": "element-auto-uisi",
-    "defaultCountryCode": "GB",
+    "defaultCountryCode": "CN",
     "showLabsSettings": false,
     "features": { },
     "default_federate": true,
